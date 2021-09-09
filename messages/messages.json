@@ -1,0 +1,5 @@
+{
+  "commandDescription": "Sort Custom Label metadata by API name",
+  "fileFlagDescription": "file to sort",
+  "fileNotFoundErrorMessage": "File does not exist"
+}
